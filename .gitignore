@@ -1,0 +1,49 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+*.launch
+
+# Build tools
+build/
+target/
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
+*.bak
+*.pyc
+*.DS_Store
+*.classpath
+*.project
+*.pydevproject
+*.pydev_properties
+*.thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
